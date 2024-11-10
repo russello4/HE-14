@@ -1,7 +1,25 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #C41EDF;
 }
-canvas {
-  display: block;
+
+
+
+h2 {
+  font-family: "permanent marker", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #011B1E;
+  padding-left: 20%;
+}
+
+p {
+  color: #011B1E;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 20%;
+  padding-right: 20%;
+  max-width: 600px;
 }
